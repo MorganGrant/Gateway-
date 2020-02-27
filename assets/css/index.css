@@ -1,0 +1,34 @@
+/*--HERO--*/
+.hero-image {
+/*the background image is my hero image*/  
+    height: 50%;
+  padding: 300px ;
+
+}
+
+
+.hero-text {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.hero-text a {
+  border: none;
+  border-radius: 30px;
+  background-color: blue;
+  padding: 0px;
+  color: white;
+  width: 50%;
+  display: inline-block;
+  margin: 3px;
+  
+  
+}
+
+.hero-text button:hover {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
+
